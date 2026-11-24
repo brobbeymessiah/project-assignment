@@ -1,0 +1,112 @@
+:root {
+  background: #f6f4ec;
+  color: #19302c;
+  font: 16px system-ui,sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  max-width: 1050px;
+  margin: auto;
+  padding: 42px 26px;
+}
+
+header {
+  border-bottom: 2px solid #296b5d;
+  padding-bottom: 22px;
+}
+
+h1, h2 {
+  font-family: Georgia,serif;
+  margin: 0 0 12px;
+}
+
+h1 {
+  font-size: clamp(2.2rem,6vw,3.8rem);
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 1.8rem;
+  font-weight: 400;
+}
+
+p {
+  line-height: 1.55;
+  max-width: 75ch;
+}
+
+section {
+  margin-top: 36px;
+}
+
+select {
+  font: inherit;
+  padding: 4px 8px;
+}
+
+svg {
+  width: 100%;
+  height: auto;
+  background: white;
+  margin-top: 12px;
+  border: 1px solid #ddd;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 10px 0;
+  color: #19302c;
+}
+
+td, th {
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid #cfd8d1;
+}
+
+th {
+  background: #dce9df;
+}
+
+small {
+  display: block;
+  margin-top: 32px;
+}
+
+a {
+  color: #176354;
+}
+
+.legend {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.key {
+  display: inline-block;
+  width: 21px;
+  border-top: 3px solid;
+  margin: 0 6px 4px 0;
+}
+
+.scroll {
+  overflow: auto;
+}
+
+.key-actual {
+  color: #19302c;
+}
+
+.key-regression {
+  color: #176baf;
+}
+
+.key-baseline {
+  color: #a55125;
+}

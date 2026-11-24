@@ -1,0 +1,838 @@
+{
+  "monthly": [
+    {
+      "period": "1949-01",
+      "passengers": 112000
+    },
+    {
+      "period": "1949-02",
+      "passengers": 118000
+    },
+    {
+      "period": "1949-03",
+      "passengers": 132000
+    },
+    {
+      "period": "1949-04",
+      "passengers": 129000
+    },
+    {
+      "period": "1949-05",
+      "passengers": 121000
+    },
+    {
+      "period": "1949-06",
+      "passengers": 135000
+    },
+    {
+      "period": "1949-07",
+      "passengers": 148000
+    },
+    {
+      "period": "1949-08",
+      "passengers": 148000
+    },
+    {
+      "period": "1949-09",
+      "passengers": 136000
+    },
+    {
+      "period": "1949-10",
+      "passengers": 119000
+    },
+    {
+      "period": "1949-11",
+      "passengers": 104000
+    },
+    {
+      "period": "1949-12",
+      "passengers": 118000
+    },
+    {
+      "period": "1950-01",
+      "passengers": 115000
+    },
+    {
+      "period": "1950-02",
+      "passengers": 126000
+    },
+    {
+      "period": "1950-03",
+      "passengers": 141000
+    },
+    {
+      "period": "1950-04",
+      "passengers": 135000
+    },
+    {
+      "period": "1950-05",
+      "passengers": 125000
+    },
+    {
+      "period": "1950-06",
+      "passengers": 149000
+    },
+    {
+      "period": "1950-07",
+      "passengers": 170000
+    },
+    {
+      "period": "1950-08",
+      "passengers": 170000
+    },
+    {
+      "period": "1950-09",
+      "passengers": 158000
+    },
+    {
+      "period": "1950-10",
+      "passengers": 133000
+    },
+    {
+      "period": "1950-11",
+      "passengers": 114000
+    },
+    {
+      "period": "1950-12",
+      "passengers": 140000
+    },
+    {
+      "period": "1951-01",
+      "passengers": 145000
+    },
+    {
+      "period": "1951-02",
+      "passengers": 150000
+    },
+    {
+      "period": "1951-03",
+      "passengers": 178000
+    },
+    {
+      "period": "1951-04",
+      "passengers": 163000
+    },
+    {
+      "period": "1951-05",
+      "passengers": 172000
+    },
+    {
+      "period": "1951-06",
+      "passengers": 178000
+    },
+    {
+      "period": "1951-07",
+      "passengers": 199000
+    },
+    {
+      "period": "1951-08",
+      "passengers": 199000
+    },
+    {
+      "period": "1951-09",
+      "passengers": 184000
+    },
+    {
+      "period": "1951-10",
+      "passengers": 162000
+    },
+    {
+      "period": "1951-11",
+      "passengers": 146000
+    },
+    {
+      "period": "1951-12",
+      "passengers": 166000
+    },
+    {
+      "period": "1952-01",
+      "passengers": 171000
+    },
+    {
+      "period": "1952-02",
+      "passengers": 180000
+    },
+    {
+      "period": "1952-03",
+      "passengers": 193000
+    },
+    {
+      "period": "1952-04",
+      "passengers": 181000
+    },
+    {
+      "period": "1952-05",
+      "passengers": 183000
+    },
+    {
+      "period": "1952-06",
+      "passengers": 218000
+    },
+    {
+      "period": "1952-07",
+      "passengers": 230000
+    },
+    {
+      "period": "1952-08",
+      "passengers": 242000
+    },
+    {
+      "period": "1952-09",
+      "passengers": 209000
+    },
+    {
+      "period": "1952-10",
+      "passengers": 191000
+    },
+    {
+      "period": "1952-11",
+      "passengers": 172000
+    },
+    {
+      "period": "1952-12",
+      "passengers": 194000
+    },
+    {
+      "period": "1953-01",
+      "passengers": 196000
+    },
+    {
+      "period": "1953-02",
+      "passengers": 196000
+    },
+    {
+      "period": "1953-03",
+      "passengers": 236000
+    },
+    {
+      "period": "1953-04",
+      "passengers": 235000
+    },
+    {
+      "period": "1953-05",
+      "passengers": 229000
+    },
+    {
+      "period": "1953-06",
+      "passengers": 243000
+    },
+    {
+      "period": "1953-07",
+      "passengers": 264000
+    },
+    {
+      "period": "1953-08",
+      "passengers": 272000
+    },
+    {
+      "period": "1953-09",
+      "passengers": 237000
+    },
+    {
+      "period": "1953-10",
+      "passengers": 211000
+    },
+    {
+      "period": "1953-11",
+      "passengers": 180000
+    },
+    {
+      "period": "1953-12",
+      "passengers": 201000
+    },
+    {
+      "period": "1954-01",
+      "passengers": 204000
+    },
+    {
+      "period": "1954-02",
+      "passengers": 188000
+    },
+    {
+      "period": "1954-03",
+      "passengers": 235000
+    },
+    {
+      "period": "1954-04",
+      "passengers": 227000
+    },
+    {
+      "period": "1954-05",
+      "passengers": 234000
+    },
+    {
+      "period": "1954-06",
+      "passengers": 264000
+    },
+    {
+      "period": "1954-07",
+      "passengers": 302000
+    },
+    {
+      "period": "1954-08",
+      "passengers": 293000
+    },
+    {
+      "period": "1954-09",
+      "passengers": 259000
+    },
+    {
+      "period": "1954-10",
+      "passengers": 229000
+    },
+    {
+      "period": "1954-11",
+      "passengers": 203000
+    },
+    {
+      "period": "1954-12",
+      "passengers": 229000
+    },
+    {
+      "period": "1955-01",
+      "passengers": 242000
+    },
+    {
+      "period": "1955-02",
+      "passengers": 233000
+    },
+    {
+      "period": "1955-03",
+      "passengers": 267000
+    },
+    {
+      "period": "1955-04",
+      "passengers": 269000
+    },
+    {
+      "period": "1955-05",
+      "passengers": 270000
+    },
+    {
+      "period": "1955-06",
+      "passengers": 315000
+    },
+    {
+      "period": "1955-07",
+      "passengers": 364000
+    },
+    {
+      "period": "1955-08",
+      "passengers": 347000
+    },
+    {
+      "period": "1955-09",
+      "passengers": 312000
+    },
+    {
+      "period": "1955-10",
+      "passengers": 274000
+    },
+    {
+      "period": "1955-11",
+      "passengers": 237000
+    },
+    {
+      "period": "1955-12",
+      "passengers": 278000
+    },
+    {
+      "period": "1956-01",
+      "passengers": 284000
+    },
+    {
+      "period": "1956-02",
+      "passengers": 277000
+    },
+    {
+      "period": "1956-03",
+      "passengers": 317000
+    },
+    {
+      "period": "1956-04",
+      "passengers": 313000
+    },
+    {
+      "period": "1956-05",
+      "passengers": 318000
+    },
+    {
+      "period": "1956-06",
+      "passengers": 374000
+    },
+    {
+      "period": "1956-07",
+      "passengers": 413000
+    },
+    {
+      "period": "1956-08",
+      "passengers": 405000
+    },
+    {
+      "period": "1956-09",
+      "passengers": 355000
+    },
+    {
+      "period": "1956-10",
+      "passengers": 306000
+    },
+    {
+      "period": "1956-11",
+      "passengers": 271000
+    },
+    {
+      "period": "1956-12",
+      "passengers": 306000
+    },
+    {
+      "period": "1957-01",
+      "passengers": 315000
+    },
+    {
+      "period": "1957-02",
+      "passengers": 301000
+    },
+    {
+      "period": "1957-03",
+      "passengers": 356000
+    },
+    {
+      "period": "1957-04",
+      "passengers": 348000
+    },
+    {
+      "period": "1957-05",
+      "passengers": 355000
+    },
+    {
+      "period": "1957-06",
+      "passengers": 422000
+    },
+    {
+      "period": "1957-07",
+      "passengers": 465000
+    },
+    {
+      "period": "1957-08",
+      "passengers": 467000
+    },
+    {
+      "period": "1957-09",
+      "passengers": 404000
+    },
+    {
+      "period": "1957-10",
+      "passengers": 347000
+    },
+    {
+      "period": "1957-11",
+      "passengers": 305000
+    },
+    {
+      "period": "1957-12",
+      "passengers": 336000
+    },
+    {
+      "period": "1958-01",
+      "passengers": 340000
+    },
+    {
+      "period": "1958-02",
+      "passengers": 318000
+    },
+    {
+      "period": "1958-03",
+      "passengers": 362000
+    },
+    {
+      "period": "1958-04",
+      "passengers": 348000
+    },
+    {
+      "period": "1958-05",
+      "passengers": 363000
+    },
+    {
+      "period": "1958-06",
+      "passengers": 435000
+    },
+    {
+      "period": "1958-07",
+      "passengers": 491000
+    },
+    {
+      "period": "1958-08",
+      "passengers": 505000
+    },
+    {
+      "period": "1958-09",
+      "passengers": 404000
+    },
+    {
+      "period": "1958-10",
+      "passengers": 359000
+    },
+    {
+      "period": "1958-11",
+      "passengers": 310000
+    },
+    {
+      "period": "1958-12",
+      "passengers": 337000
+    },
+    {
+      "period": "1959-01",
+      "passengers": 360000
+    },
+    {
+      "period": "1959-02",
+      "passengers": 342000
+    },
+    {
+      "period": "1959-03",
+      "passengers": 406000
+    },
+    {
+      "period": "1959-04",
+      "passengers": 396000
+    },
+    {
+      "period": "1959-05",
+      "passengers": 420000
+    },
+    {
+      "period": "1959-06",
+      "passengers": 472000
+    },
+    {
+      "period": "1959-07",
+      "passengers": 548000
+    },
+    {
+      "period": "1959-08",
+      "passengers": 559000
+    },
+    {
+      "period": "1959-09",
+      "passengers": 463000
+    },
+    {
+      "period": "1959-10",
+      "passengers": 407000
+    },
+    {
+      "period": "1959-11",
+      "passengers": 362000
+    },
+    {
+      "period": "1959-12",
+      "passengers": 405000
+    },
+    {
+      "period": "1960-01",
+      "passengers": 417000
+    },
+    {
+      "period": "1960-02",
+      "passengers": 391000
+    },
+    {
+      "period": "1960-03",
+      "passengers": 419000
+    },
+    {
+      "period": "1960-04",
+      "passengers": 461000
+    },
+    {
+      "period": "1960-05",
+      "passengers": 472000
+    },
+    {
+      "period": "1960-06",
+      "passengers": 535000
+    },
+    {
+      "period": "1960-07",
+      "passengers": 622000
+    },
+    {
+      "period": "1960-08",
+      "passengers": 606000
+    },
+    {
+      "period": "1960-09",
+      "passengers": 508000
+    },
+    {
+      "period": "1960-10",
+      "passengers": 461000
+    },
+    {
+      "period": "1960-11",
+      "passengers": 390000
+    },
+    {
+      "period": "1960-12",
+      "passengers": 432000
+    }
+  ],
+  "forecast": [
+    {
+      "period": "1959-01",
+      "actual": 360000,
+      "regression": 400266,
+      "baseline": 340000
+    },
+    {
+      "period": "1959-02",
+      "actual": 342000,
+      "regression": 399140,
+      "baseline": 318000
+    },
+    {
+      "period": "1959-03",
+      "actual": 406000,
+      "regression": 461092,
+      "baseline": 362000
+    },
+    {
+      "period": "1959-04",
+      "actual": 396000,
+      "regression": 446348,
+      "baseline": 348000
+    },
+    {
+      "period": "1959-05",
+      "actual": 420000,
+      "regression": 446791,
+      "baseline": 363000
+    },
+    {
+      "period": "1959-06",
+      "actual": 472000,
+      "regression": 511091,
+      "baseline": 435000
+    },
+    {
+      "period": "1959-07",
+      "actual": 548000,
+      "regression": 568706,
+      "baseline": 491000
+    },
+    {
+      "period": "1959-08",
+      "actual": 559000,
+      "regression": 569587,
+      "baseline": 505000
+    },
+    {
+      "period": "1959-09",
+      "actual": 463000,
+      "regression": 502660,
+      "baseline": 404000
+    },
+    {
+      "period": "1959-10",
+      "actual": 407000,
+      "regression": 440895,
+      "baseline": 359000
+    },
+    {
+      "period": "1959-11",
+      "actual": 362000,
+      "regression": 386399,
+      "baseline": 310000
+    },
+    {
+      "period": "1959-12",
+      "actual": 405000,
+      "regression": 438842,
+      "baseline": 337000
+    },
+    {
+      "period": "1960-01",
+      "actual": 417000,
+      "regression": 454679,
+      "baseline": 340000
+    },
+    {
+      "period": "1960-02",
+      "actual": 391000,
+      "regression": 453401,
+      "baseline": 318000
+    },
+    {
+      "period": "1960-03",
+      "actual": 419000,
+      "regression": 523774,
+      "baseline": 362000
+    },
+    {
+      "period": "1960-04",
+      "actual": 461000,
+      "regression": 507026,
+      "baseline": 348000
+    },
+    {
+      "period": "1960-05",
+      "actual": 472000,
+      "regression": 507530,
+      "baseline": 363000
+    },
+    {
+      "period": "1960-06",
+      "actual": 535000,
+      "regression": 580571,
+      "baseline": 435000
+    },
+    {
+      "period": "1960-07",
+      "actual": 622000,
+      "regression": 646019,
+      "baseline": 491000
+    },
+    {
+      "period": "1960-08",
+      "actual": 606000,
+      "regression": 647019,
+      "baseline": 505000
+    },
+    {
+      "period": "1960-09",
+      "actual": 508000,
+      "regression": 570994,
+      "baseline": 404000
+    },
+    {
+      "period": "1960-10",
+      "actual": 461000,
+      "regression": 500832,
+      "baseline": 359000
+    },
+    {
+      "period": "1960-11",
+      "actual": 390000,
+      "regression": 438928,
+      "baseline": 310000
+    },
+    {
+      "period": "1960-12",
+      "actual": 432000,
+      "regression": 498500,
+      "baseline": 337000
+    }
+  ],
+  "metrics": {
+    "Log seasonal regression": {
+      "MAE": 43628.69900997327,
+      "RMSE": 47471.24690174171,
+      "MAPE": 10.089149103630273
+    },
+    "Seasonal naive": {
+      "MAE": 71250.0,
+      "RMSE": 76994.58855443457,
+      "MAPE": 15.523355162420376
+    }
+  },
+  "monthly_share": [
+    7.176116094655523,
+    7.098923031905426,
+    8.166650374163229,
+    7.9913860930954,
+    8.051922848687807,
+    9.18850133799453,
+    10.30300255071956,
+    10.30912872888175,
+    9.006508649349366,
+    7.922942021208378,
+    6.933207592649399,
+    7.8517106766896285
+  ],
+  "clusters": {
+    "2": {
+      "silhouette": 0.6619798698515237,
+      "groups": [
+        [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ]
+      ],
+      "centers": [
+        7.649107341631849,
+        9.701785316736302
+      ]
+    },
+    "3": {
+      "silhouette": 0.6966235457717199,
+      "groups": [
+        [
+          "Jan",
+          "Feb",
+          "Nov"
+        ],
+        [
+          "Mar",
+          "Apr",
+          "May",
+          "Oct",
+          "Dec"
+        ],
+        [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ]
+      ],
+      "centers": [
+        7.069415573070116,
+        7.996922402768888,
+        9.701785316736302
+      ]
+    },
+    "4": {
+      "silhouette": 0.8554733776553703,
+      "groups": [
+        [
+          "Jan",
+          "Feb",
+          "Nov"
+        ],
+        [
+          "Mar",
+          "Apr",
+          "May",
+          "Oct",
+          "Dec"
+        ],
+        [
+          "Jun",
+          "Sep"
+        ],
+        [
+          "Jul",
+          "Aug"
+        ]
+      ],
+      "centers": [
+        7.069415573070116,
+        7.996922402768888,
+        9.097504993671947,
+        10.306065639800655
+      ]
+    }
+  }
+}
